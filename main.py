@@ -14,4 +14,6 @@ for shop in shopping_dict:
 
 print(f"W sumie kupuję: {total_quantity} produktów.")
 
-# To jest komentarz wprowadzony z poziomu galęzi test
+print("Branch Test")
+
+

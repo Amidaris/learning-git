@@ -14,3 +14,5 @@ for shop in shopping_dict:
 
 print(f"W sumie kupuję: {total_quantity} produktów.")
 
+print("To jest testowy wpis do nauki obsługi GIT-a")
+

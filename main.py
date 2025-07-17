@@ -16,3 +16,5 @@ print(f"W sumie kupuję: {total_quantity} produktów.")
 
 # To jest komentarz wprowadzony na branchu test
 
+print("Branch Test")
+

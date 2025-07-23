@@ -13,9 +13,3 @@ for shop in shopping_dict:
     total_quantity += len(products)
 
 print(f"W sumie kupuję: {total_quantity} produktów.")
-
-print("Branch Test")
-
-
-# Może tym razem uda mi się zrobić mergowanie bez konfliktu
-print("Test003")
